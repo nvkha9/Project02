@@ -92,3 +92,22 @@ a {
 .header .action {
   margin-left: 49px;
 }
+
+.hero {
+  background: #fffcf4;
+}
+
+.hero .body {
+  display: flex;
+}
+
+.hero .media-block,
+.hero .content-block {
+  width: 50%;
+}
+
+.media-block .img {
+  width: 470px;
+  height: 685px;
+  border-radius: 20px;
+}
